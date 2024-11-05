@@ -1,5 +1,7 @@
-### 안녕하세요 찾아와주셔서 감사합니다.                
-👋       
+### 안녕하세요 찾아와주셔서 감사합니다.         
+프론트 기술
+![다운로드](https://github.com/user-attachments/assets/ea2a7589-3889-4aad-9266-6dd81cc74753)
+
 
 <!--
 **wonsungjin/wonsungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
